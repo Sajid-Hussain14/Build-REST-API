@@ -25,3 +25,7 @@ After setting up node js and express
 # ACCESS USER WITH ID IN URL
 
 ![Screenshot from 2024-11-18 12-03-44](https://github.com/user-attachments/assets/4d39da87-7310-4a9e-8458-8aaa01753299)
+
+# PATCH USING ID
+
+![Screenshot from 2024-11-18 12-06-54](https://github.com/user-attachments/assets/9ef99ade-3200-46a9-a07b-f6ebeddbc18d)
