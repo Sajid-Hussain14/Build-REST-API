@@ -16,3 +16,8 @@ After setting up node js and express
 # GET DATA USING POSTMAN --FUNCTIONALITY IS ADDED ON CONTROLLERS/USERS.JS
 
 ![Screenshot from 2024-11-18 12-00-03](https://github.com/user-attachments/assets/db94ad3f-4057-42c8-a965-b6a84327eac4)
+
+
+# DELETE USER FROM DATABASE FROM POSTMAN
+
+![Screenshot from 2024-11-18 12-02-06](https://github.com/user-attachments/assets/962fe9c8-8895-4a03-9dbd-3e22297656eb)
