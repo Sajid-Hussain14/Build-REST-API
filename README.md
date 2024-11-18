@@ -21,3 +21,7 @@ After setting up node js and express
 # DELETE USER FROM DATABASE FROM POSTMAN
 
 ![Screenshot from 2024-11-18 12-02-06](https://github.com/user-attachments/assets/962fe9c8-8895-4a03-9dbd-3e22297656eb)
+
+# ACCESS USER WITH ID IN URL
+
+![Screenshot from 2024-11-18 12-03-44](https://github.com/user-attachments/assets/4d39da87-7310-4a9e-8458-8aaa01753299)
