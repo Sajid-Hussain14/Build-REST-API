@@ -1,0 +1,5 @@
+# THE PROCEDURE IS AS PREVIOUS ONE BUT I AM USING PYTHON HERE
+
+# --THERE YOU NEED TO CREATE .ENV FILE AND NEED TO USE PYTHON OR POSTMAN FOR OPERATIONS
+
+# use requirements.txt fro dependencies and feel free to change and modify 
